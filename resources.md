@@ -21,19 +21,19 @@
 
 5. Book: [Encryption Algorithms: AES](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=807) (Page 783-787)
 
-6. Book: [AES explained](https://searchsecurity.techtarget.com/definition/Advanced-Encryption-Standard)
+6. Website: [AES explained](https://searchsecurity.techtarget.com/definition/Advanced-Encryption-Standard)
 
 7. Book: [Public Key Ciphers: RSA](https://book.systemsapproach.org/security/crypto.html?highlight=rsa#public-key-ciphers)
 
 8. Book: [Encryption Algorithms: RSA](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=818) (Page 794-796)
 
-9. Book: [Digital Signatures: Symmetric-key signatures, Public-Key Signatures, Message Digests, The birthday attack](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=821)(Page 797-806)
+9. Book: [Digital Signatures: Symmetric-key signatures, Public-Key Signatures, Message Digests, The birthday attack](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=821) (Page 797-806)
 
 10. Book: [Digital Signatures](https://tinyurl.com/spp5h5h2) (Page 693-699)
 
-11. Book: [Explanation on Firewalls](https://tinyurl.com/6kyndkms)(Page 731-742)
+11. Book: [Explanation on Firewalls](https://tinyurl.com/6kyndkms) (Page 731-742)
 
-12. Book: [Firewalls short overview](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=842) (Page 818-821)
+12. Book: [Short overview of Firewalls](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=842) (Page 818-821)
 
 13. LinkedIn Learning: [Different types of cryptography](https://www.linkedin.com/learning/ethical-hacking-cryptography/different-types-of-cryptography?u=49112041)
 
