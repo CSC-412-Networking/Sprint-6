@@ -10,12 +10,9 @@
 For this sprint, you will only be picking one of the following sets of topics:
 
 1. Encryption algorithms: Cryptography, DES, AES, RSA, digital signatures
-2. Firewalls
-3. VPN
-4. SSL
-5. Certificates
-6. SSH
-
+2. Firewalls, VPNs
+3. SSL, Certificates
+4. SSH, Blockchain
 
 ## Known Resources
 

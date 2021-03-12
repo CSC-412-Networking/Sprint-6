@@ -11,11 +11,11 @@
 
 ## Resources:
 
-1. Book: [Principles of Criptography](https://tinyurl.com/75udyaj9) (Page 675-682)
+1. Book: [Principles of Cryptography](https://tinyurl.com/75udyaj9) (Page 675-682)
 
 2. Book: [Cryptography explained](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=790) (Page 766-778)
 
-3. Book: [Encryption Algorithms: DES, triple DES](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=802) (Page 778-783)
+3. Book: [Encryption Algorithms: DES, 3DES](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf#page=802) (Page 778-783)
 
 4. Book: [Secret-Key Ciphers: DES](https://book.systemsapproach.org/security/crypto.html?highlight=rsa#secret-key-ciphers)
 
