@@ -15,6 +15,7 @@ For this sprint, you will only be picking one of the following sets of topics:
 4. SSL
 5. Certificates
 6. SSH
+7. Blockchain
 
 
 ## Known Resources
