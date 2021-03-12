@@ -92,5 +92,6 @@
 
 41. Website: [Blockchain](https://www.ibm.com/blogs/blockchain/2017/12/blockchain-security-what-keeps-your-transaction-data-safe/)
 
-42. Website: [Blockchain](hhttps://blockgeeks.com/guides/what-is-blockchain-technology/)
+42. Website: [Blockchain](https://blockgeeks.com/guides/what-is-blockchain-technology/)
 
+43. Tutorial: [AES Animation](https://formaestudio.com/rijndaelinspector/archivos/Rijndael_Animation_v4_eng-html5.html)
