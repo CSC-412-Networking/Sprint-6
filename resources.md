@@ -8,6 +8,7 @@
 4. SSL
 5. Certificates
 6. SSH
+7. Blockchain
 
 ## Resources:
 
@@ -84,3 +85,12 @@
 37. Youtube: [SSL](https://youtu.be/rROgWTfA5qE)
 
 38. Youtube: [SSL](https://youtu.be/iQsKdtjwtYI)
+
+39. Youtube: [Blockchain](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+
+40. Youtube: [Blockchain](https://www.youtube.com/watch?v=QphJEO9ZX6s)
+
+41. Website: [Blockchain](https://www.ibm.com/blogs/blockchain/2017/12/blockchain-security-what-keeps-your-transaction-data-safe/)
+
+42. Website: [Blockchain](hhttps://blockgeeks.com/guides/what-is-blockchain-technology/)
+
